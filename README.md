@@ -10,9 +10,9 @@ Solusi : Tingkatkan lagi parameter dalam Prefix.txt.
 
 Contoh penggunaan : 
 Buat file demo.php dan ditaruh bersama dengan file core.php. misal  sintak berikut ini : 
-<?php
+
 include("core.php");
 $input_kata = "Menyesuaikan";
 echo stem($input_kata);
 //output : sesuai
-?>
+
